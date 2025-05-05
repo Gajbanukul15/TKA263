@@ -21,5 +21,5 @@ Examples:
 
      |username| password|
      |kiran@gmail.com| 123456|
-     |ABC@gmail.com| 123456|
-     |karan@gmail.com| 123456|
+     |falti@gmail.com| 1446|
+     |kjohar@gmail.com|6845|
